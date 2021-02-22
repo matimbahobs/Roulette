@@ -1,0 +1,22 @@
+
+Matimba	400.0
+Panic	0.0
+Hope	0.0
+Matimba	0.0
+Panic	400.0
+Hope	0.0
+Matimba	0.0
+Panic	200.0
+Hope	0.0
+Matimba	280.0
+Panic	0.0
+Hope	0.0
+Matimba	1000.0
+Panic	0.0
+Hope	1200.0
+Matimba	0.0
+Panic	500.0
+Hope	0.0
+Matimba	0.0
+Panic	912.0
+Hope	0.0
